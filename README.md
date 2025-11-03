@@ -1,2 +1,2 @@
 # interactive-dashboard
-dynamic and interactive Angular dashboard
+Dynamic and interactive Angular dashboard
